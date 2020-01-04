@@ -15,7 +15,7 @@
 }
 
 .home-main-section .lady-image {
-    background-image: url(/images/landing-page-girl.png);
+    background-image: url(../images/landing-page-girl.png);
     flex-grow: 1;
     max-height: 70vh;
     min-width: 30vw;
@@ -75,7 +75,7 @@
 }
 
 
-/* 
+ 
 @media (max-width: 900px) {
     .home-main-section .image-wrapper {
         display: none;
@@ -84,4 +84,4 @@
     .home-main-section {
         justify-content: center;
     }
-} */
+} 

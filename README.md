@@ -2,9 +2,9 @@
 
 ## Web Dev Spotify Type Landing Page CSS Tutorial
 
-This landing page is another great [tutorial](https://www.youtube.com/watch?v=RZ-Oe4_Ew7g&list=PLZlA0Gpn_vH8mpXIUHjWoMAAgoCEinL0R&index=3&t=0s) from [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw/playlists). It is a Spotify type landing page. None of the code is mine, the only thing I changed from the original is the layout of the style.css and the header.css (using @import).
+This landing page is another great [tutorial](https://www.youtube.com/watch?v=RZ-Oe4_Ew7g&list=PLZlA0Gpn_vH8mpXIUHjWoMAAgoCEinL0R&index=3&t=0s) from [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw/playlists). It is a Spotify type landing page. None of the code is mine, the only thing I changed from the original is the layout of the style.css and the header.css (using @import). I really liked the circles in the background and the use of a background image on a div to place the figure of the woman. That was new to me.
 
-This is the opening page:
+This is the opening page, the image of the woman is a background image on a div. The circles are styled divs.
 ![portada](images/readme/1portada.png)
 
 Clicking on the discover link takes the user to the discover page:
